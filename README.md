@@ -1,27 +1,6 @@
 # Abir Hasan Supta
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=450&lines=Software+Engineer;Backend+Developer;Django+Specialist;AI%2FML+Explorer" alt="Typing SVG" />
-</div>
-
-## Professional Overview
-
 I'm a **Software Engineer** based in Bangladesh specializing in backend development and intelligent systems. I build robust web applications using Django and design comprehensive REST APIs, while actively exploring AI/ML integration to create innovative solutions.
-
-**Technical Focus:**
-- Backend Development with Django framework and RESTful API architecture
-- System Design for scalable web applications and microservices
-- AI/ML Integration exploring intelligent solutions and automation
-- Professional development of enterprise-grade applications
-
-**Professional Interests:**
-- Collaborative development on impactful projects
-- Open-source contributions and community engagement
-- AI/ML applications in web development
-- Knowledge sharing and technical discussions
-
-**Technical Discussions:** Python, Django, Flask, Java, Spring Boot  
-**Contact:** abirhasan.supta254@gmail.com
 
 ## Technical Expertise
 
@@ -39,8 +18,6 @@ I'm a **Software Engineer** based in Bangladesh specializing in backend developm
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
-### Frontend Technologies
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### AI/ML Stack
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -122,10 +99,5 @@ I'm a **Software Engineer** based in Bangladesh specializing in backend developm
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbirHasanSupta&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  
-  <br><br>
-  
   Thank you for visiting! Feel free to explore my repositories and connect for potential collaborations.
-  
 </div>
