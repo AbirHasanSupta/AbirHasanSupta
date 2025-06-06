@@ -76,15 +76,6 @@ I'm a **Software Engineer** based in Bangladesh specializing in backend developm
 
 [**View Project →**](https://github.com/AbirHasanSupta/Ecommerce-Website-with-flask-and-stripe-payment)
 
-### Quiz Management API
-*Enterprise-grade RESTful service for assessment systems*
-
-**Framework:** Spring Boot with JPA/Hibernate  
-**API Design:** RESTful principles with comprehensive documentation  
-**Features:** Scalable question bank, Real-time scoring, Analytics dashboard
-
-[**View Project →**](https://github.com/AbirHasanSupta/Quiz_App_Backend_API_SpringBoot)
-
 
 ## Professional Network
 
