@@ -1,16 +1,131 @@
-## Hi there 👋
+# Abir Hasan Supta
 
-<!--
-**AbirHasanSupta/AbirHasanSupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=450&lines=Software+Engineer;Backend+Developer;Django+Specialist;AI%2FML+Explorer" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+## Professional Overview
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Software Engineer** based in Bangladesh specializing in backend development and intelligent systems. I build robust web applications using Django and design comprehensive REST APIs, while actively exploring AI/ML integration to create innovative solutions.
+
+**Technical Focus:**
+- Backend Development with Django framework and RESTful API architecture
+- System Design for scalable web applications and microservices
+- AI/ML Integration exploring intelligent solutions and automation
+- Professional development of enterprise-grade applications
+
+**Professional Interests:**
+- Collaborative development on impactful projects
+- Open-source contributions and community engagement
+- AI/ML applications in web development
+- Knowledge sharing and technical discussions
+
+**Technical Discussions:** Python, Django, Flask, Java, Spring Boot  
+**Contact:** abirhasan.supta254@gmail.com
+
+## Technical Expertise
+
+<div align="center">
+
+### Core Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Backend Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+
+### Frontend Technologies
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### AI/ML Stack
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+
+</div>
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbirHasanSupta&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbirHasanSupta&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html,css,procfile"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbirHasanSupta&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub Streak"/>
+</div>
+
+## Featured Projects
+
+### University Management System
+*Django-based comprehensive academic management platform*
+
+**Architecture:** Model-View-Template with role-based access control  
+**Database:** PostgreSQL with optimized queries  
+**Features:** Multi-role dashboard, Course enrollment, Grade management
+
+[**View Project →**](https://github.com/AbirHasanSupta/UniversityManagement_Django)
+
+### Intelligent PDF Assistant
+*RAG-based conversational AI for document analysis*
+
+**AI Stack:** LangChain + Ollama + Chroma Vector Database  
+**Architecture:** Django with microservices design  
+**Features:** Context-aware Q&A, Local LLM deployment, Semantic search
+
+[**View Project →**](https://github.com/AbirHasanSupta/PDF_Chatbot_RAG_Django)
+
+### E-Commerce Platform
+*Full-stack solution with integrated payment processing*
+
+**Backend:** Flask with modular architecture  
+**Payment Integration:** Stripe API implementation  
+**Features:** Secure transactions, Inventory management, User authentication
+
+[**View Project →**](https://github.com/AbirHasanSupta/Ecommerce-Website-with-flask-and-stripe-payment)
+
+### Quiz Management API
+*Enterprise-grade RESTful service for assessment systems*
+
+**Framework:** Spring Boot with JPA/Hibernate  
+**API Design:** RESTful principles with comprehensive documentation  
+**Features:** Scalable question bank, Real-time scoring, Analytics dashboard
+
+[**View Project →**](https://github.com/AbirHasanSupta/Quiz_App_Backend_API_SpringBoot)
+
+
+## Professional Network
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abir-hasan-supta/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abirhasan.supta254@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AbirHasanSupta)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbirHasanSupta&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  
+  <br><br>
+  
+  Thank you for visiting! Feel free to explore my repositories and connect for potential collaborations.
+  
+</div>
