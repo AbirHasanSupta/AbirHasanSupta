@@ -1,4 +1,4 @@
-# Abir Hasan Supta
+# Hi There, I'm Abir Hasan Supta
 
 I'm a **Software Engineer** based in Bangladesh specializing in backend development and intelligent systems. I build robust web applications using Django and design comprehensive REST APIs, while actively exploring AI/ML integration to create innovative solutions.
 
