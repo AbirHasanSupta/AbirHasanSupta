@@ -47,35 +47,6 @@ I'm a **Software Engineer** based in Bangladesh specializing in backend developm
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbirHasanSupta&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub Streak"/>
 </div>
 
-## Featured Projects
-
-### University Management System
-*Django-based comprehensive academic management platform*
-
-**Architecture:** Model-View-Template with role-based access control  
-**Database:** PostgreSQL with optimized queries  
-**Features:** Multi-role dashboard, Course enrollment, Grade management
-
-[**View Project →**](https://github.com/AbirHasanSupta/UniversityManagement_Django)
-
-### Intelligent PDF Assistant
-*RAG-based conversational AI for document analysis*
-
-**AI Stack:** LangChain + Ollama + Chroma Vector Database  
-**Architecture:** Django with microservices design  
-**Features:** Context-aware Q&A, Local LLM deployment, Semantic search
-
-[**View Project →**](https://github.com/AbirHasanSupta/PDF_Chatbot_RAG_Django)
-
-### E-Commerce Platform
-*Full-stack solution with integrated payment processing*
-
-**Backend:** Flask with modular architecture  
-**Payment Integration:** Stripe API implementation  
-**Features:** Secure transactions, Inventory management, User authentication
-
-[**View Project →**](https://github.com/AbirHasanSupta/Ecommerce-Website-with-flask-and-stripe-payment)
-
 
 ## Professional Network
 
